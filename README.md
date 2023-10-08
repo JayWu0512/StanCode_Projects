@@ -20,7 +20,7 @@ Watch my *[DEMO VIDEOS!](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWN
 * [My Drawing](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/my_drawing)
   * image processing
 * [My Photoshop](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/my_photoshop)
-  * image processing & green screen bachground change
+  * image processing & green screen background change
 * [Name Searching System](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/name_searching_system)
   * data structure & data visualization
 * [Web Crawler](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/web_crawler)
