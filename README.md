@@ -25,3 +25,5 @@ Watch my *[DEMO VIDEOS!](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWN
   * data structure & data visualization
 * [Web Crawler](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/web_crawler)
   * web crawler  
+* [Rotten Tomatoes Movie Review AI Rating System](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/rotten_tomatoes_movie_review_AI_rating_system)
+  * Machine learning
