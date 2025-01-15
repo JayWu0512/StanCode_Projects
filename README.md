@@ -27,5 +27,5 @@ Watch my *[DEMO VIDEOS!](https://www.youtube.com/watch?v=o63KPoIXJS4&list=PL6FWN
   * web crawler  
 * [Rotten Tomatoes Movie Review AI Rating System](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/rotten_tomatoes_movie_review_AI_rating_system)
   * Machine learning
-* [Neural Network - Multi-class Prediction on CIFAR-10 dataset](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/neural_netwrok_multi-class_%20prediction_on%20_CIFAR-10_dataset))
+* [Neural Network - Multi-class Prediction on CIFAR-10 dataset](https://github.com/JayWu0512/StanCode_Projects/tree/main/StanCode_Projects/neural_netwrok_multi-class_%20prediction_on%20_CIFAR-10_dataset)
   * Neural Network
